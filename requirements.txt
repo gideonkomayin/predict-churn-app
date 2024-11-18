@@ -2,21 +2,21 @@ altair==5.2.0
 gitdb==4.0.11
 GitPython==3.1.40
 
-numpy 
-openpyxl
+numpy==1.23.5 
+openpyxl==3.0.10
 opencv-python==4.8.0.76
 
 pandas==2.0.3
 
-plotly
+plotly==5.9.0;
 
 
 scikit-learn==1.2.1
 
-seaborn 
+seaborn==0.12.2 
 
 streamlit==1.29.0
 
 matplotlib==3.7.0
 
-pickleshare
+pickleshare==0.7.5
