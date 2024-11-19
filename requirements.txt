@@ -3,6 +3,7 @@ altair==5.2.0
 appdirs==1.4.4
 attrs==23.1.0
 cachetools==5.5.0
+distutils
 lightgbm==4.1.0
 matplotlib==3.7.0
 mediapipe==0.10.18
